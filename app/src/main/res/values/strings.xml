@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Ahmed Ali</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="txt_bio">Hello! my name is Ahmed.\n\nIn my latest journey, I enjoyed supremely mentoring and building up the skills of the junior developers on ITI Tech Leaps.\n\nAn organized and detail-oriented mobile developer with over 3 years of mobile development, computer programming, and SDLC experience.\n\nSkilled in Android Application Development with clean code and architecture design patterns by following best practices.\n\nParticipate in the robust native mobile application used by thousands and millions of users with very good feedback on Google Play.</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
